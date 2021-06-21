@@ -1,6 +1,7 @@
 <div align="center">
     <img src="images/logo.png" height=200px>
 </div>
+
 # Welcome to our Introduction to Python Programming Course Repo!
 
 You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/courses/introduction-to-python-turkish/lessons/python-kursuna-hosgeldiniz/)
