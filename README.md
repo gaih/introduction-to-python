@@ -4,7 +4,7 @@
 
 # Welcome to our Introduction to Python Programming Course Repo!
 
-You can find more information about our Introduction to Machine Learning Course by visiting [Course Website.](https://globalaihub.com/courses/introduction-to-python-turkish/lessons/python-kursuna-hosgeldiniz/)
+You can find more information about our Introduction to Python Course by visiting [Course Website.](https://globalaihub.com/courses/introduction-to-python-turkish/lessons/python-kursuna-hosgeldiniz/)
 
 ## Syllabus
 
@@ -32,7 +32,7 @@ You can find more information about our Introduction to Machine Learning Course 
 - Argümanlar ve Parametreler (Arguments and Parameters)
 - return
 - Scope
-- Moduller
+- Modüller
 - Methodlar
 - Exceptions
 - Exception Handling
