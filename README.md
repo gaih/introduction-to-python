@@ -2,45 +2,52 @@
     <img src="images/logo.png" height=200px>
 </div>
 
-# Welcome to our Introduction to Python Programming Course Repo!
+# Introduction to Python Programming
 
-You can find more information about our Introduction to Python Programming Course by visiting [Course Website.](https://globalaihub.com/courses/introduction-to-python-turkish/lessons/python-kursuna-hosgeldiniz/)
+You can find more information about our Introduction to Python Programming Course by visiting [Course Website](https://globalaihub.com/courses/introduction-to-python-turkish/)
 
-## Syllabus
+---
 
-### [Lesson 1](https://github.com/gaih/introduction_to_python_v2/blob/master/Introduction%20to%20Python%20-%20Day%201.ipynb)
-- Veri Tipleri
-- Sayılar (Numbers)
-- Değişkenler (Variables)
-- Stringler (Strings)
-- Mantıksal Operatörler ve Boolean
-- Listeler (Lists)
-- Sözlükler (Dictionaries)
+Would you like to take your place in the age of Artificial Intelligence with Python Programming language, one of the most valuable and popular software languages of the Engineering world? 
 
+Python is a general-purpose programming language that helps non-technical people complete daily tasks with little effort, which can be considered automation. 
 
-### [Lesson 2](https://github.com/gaih/introduction_to_python_v2/blob/master/Introduction%20to%20Python%20-%20Day%202.ipynb)
-- Koşullar
-- Operatörler
-- Koşul Durumlar
-- Döngüler
-- For Döngüsü (For Loop)
-- While Döngüsü (While Loop)
+Python plays a crucial role in the entire data science process because concepts such as Data Visualization, Machine Learning, and Deep Learning that you will learn in this field can be easily implemented with the Python Language. With this course, you will have a great introduction to sought-after and the most required programming language in the business world.
 
+We support your development process by giving assignments so that you do not force yourself to leave the topics covered only in theory but also give you lots of practice. In this way, you can learn new programming skills by gathering experience in both theory and practice.
 
-### [Lesson 3](https://github.com/gaih/introduction_to_python_v2/blob/master/Introduction%20to%20Python%20-%20Day%203.ipynb)
-- Fonksiyonlar
-- Argümanlar ve Parametreler (Arguments and Parameters)
-- return
-- Scope
-- Modüller
-- Methodlar
-- Exceptions
+## List of Contents
+
+### Prologue
+- Welcome to Python Course
+- What is Python?
+- Why Python is The First Step of AI?
+- Why Python is Preferred?
+- Why Do We Need Python?
+
+### Module 1
+- Data Types: Numbers, Strings and Boolean
+- Arithmetical & Logical Operators
+- Containers: Lists, Dictionaries
+- Project #1
+
+### Module 2
+- Logical Operators cont’d
+- Conditional Statements
+- Loops: For, While
+- Project #2
+
+### Module  3
+- Functions
+- Modules
+- Methods
 - Exception Handling
+- Project #3
 
-
-
-## Certificate
-![](images/certifi.png)
+### Epilogue
+- Practical Use of What has been learned
+- Further Projects
+- What’s Next
 
 
 
