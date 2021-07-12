@@ -29,20 +29,20 @@ We support your development process by giving assignments so that you do not for
 - Data Types: Numbers, Strings and Boolean
 - Arithmetical & Logical Operators
 - Containers: Lists, Dictionaries
-- Project #1
+- Project #1: Body Mass Index Application
 
 ### Module 2
 - Logical Operators cont’d
 - Conditional Statements
 - Loops: For, While
-- Project #2
+- Project #2: Social Media Account Application
 
 ### Module  3
 - Functions
 - Modules
 - Methods
 - Exception Handling
-- Project #3
+- Project #3: Telephone Book Application 
 
 ### Epilogue
 - Practical Use of What has been learned
